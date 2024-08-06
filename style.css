@@ -1,0 +1,31 @@
+.screen{
+    border:solid black;
+    background-color:grey;
+    height:42vh;
+}
+.btnContainer{
+    border:solid black;
+    padding:1em;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btnSm{
+    border:solid black;
+    width:110px;
+    text-align:center;
+}
+.gridHolder{
+    border:solid lime;
+    height:89vh;
+    margin:1em;
+    background-color:navy;
+    display:flex;
+    flex-wrap:wrap;
+}
+.gridSq{
+    border:solid white;
+    margin:1em;
+    height:90px;
+    width:90px;
+}
